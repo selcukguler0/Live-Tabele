@@ -11,6 +11,6 @@
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü]([https://i.imgur.com/UhUaPqo.gif)
+![hippo]([https://i.imgur.com/UhUaPqo.gif)
 
   
