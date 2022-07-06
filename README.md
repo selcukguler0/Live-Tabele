@@ -9,7 +9,7 @@
 - Ajax
 
   
-## Ekran Görüntüleri
+## Simple View
 
 ![hippo](https://i.imgur.com/BoTejNH.gif)
 
