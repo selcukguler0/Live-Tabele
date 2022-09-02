@@ -9,7 +9,7 @@
 - Ajax
 
   
-## Simple View
+## Sample View
 
 ![hippo](https://i.imgur.com/BoTejNH.gif)
 
